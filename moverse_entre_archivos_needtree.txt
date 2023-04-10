@@ -1,0 +1,5 @@
+Para moverme en Vim cuando tengo varios archivos abiertos y están divididos tanto horizontal como verticalmente, puedo utilizar los siguientes comandos:
+
+    Para dividir la pantalla verticalmente, abro el árbol de directorios de Nerd Tree y navego hasta el archivo que deseo abrir. Luego, presiono la tecla "s" para abrir el archivo en una nueva ventana. Para cambiar entre archivos, puedo presionar "Ctrl+w w" o navegar de izquierda a derecha con "Ctrl+w h" para ir a la ventana de la izquierda y "Ctrl+w l" para ir a la ventana de la derecha.
+
+    Para dividir la pantalla horizontalmente, abro el árbol de directorios de Nerd Tree y navego hasta el archivo que deseo abrir. Luego, presiono la tecla "i" para abrir el archivo en una nueva ventana horizontal. Para cambiar entre archivos, puedo presionar "Ctrl+w j" para ir a la ventana de abajo o "Ctrl+w k" para ir a la ventana de arriba.
